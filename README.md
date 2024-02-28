@@ -7,7 +7,7 @@
 - Pode me chamar de Allysson ✌ <br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Desenvolvedor Web<br>
-- Adoro jogos é programação <br>
+- Adoro jogos e programação <br>
 - Amo tecnologia <br>
 - Atualmente estudando C, JavaScript & Python
 <br>
