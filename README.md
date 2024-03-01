@@ -6,7 +6,7 @@
  <img align="right" width=250px alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
 - Pode me chamar de Allysson ✌ <br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
-- Desenvolvedor Web<br>
+- Desenvolvedor Back-End<br>
 - Adoro jogos e programação <br>
 - Amo tecnologia <br>
 - Atualmente estudando C, JavaScript & Python
