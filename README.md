@@ -9,7 +9,7 @@
 - Desenvolvedor Back-End<br>
 - Adoro jogos e programação <br>
 - Amo tecnologia <br>
-- Atualmente estudando C, CSharp & Python
+- Atualmente estudando Java, CSharp & Python
 <br>
   
   
